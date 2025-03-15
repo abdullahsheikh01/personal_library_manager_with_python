@@ -170,7 +170,7 @@ def menu():
     elif menu_question["question1"] == "Display statistics":
         display_statistics()
     elif menu_question["question1"] == "Exit":
-        print("Goodbye")
+        print("Goodbye!")
 # First message of APP
 print("Welcome to your Personal Library📚 Manager")
 menu()
